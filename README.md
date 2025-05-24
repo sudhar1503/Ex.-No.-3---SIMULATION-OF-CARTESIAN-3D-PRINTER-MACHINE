@@ -62,8 +62,8 @@
 ![Screenshot 2025-05-02 161641](https://github.com/user-attachments/assets/2d01c810-cc3f-4bdc-8b98-81b615e9cb17)
 
 
-### Name:THARSHINI M
-### Register Number:212224230287
+### Name:Bharanika.A.S
+### Register Number:212224040048
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
